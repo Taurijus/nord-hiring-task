@@ -1,0 +1,1334 @@
+[
+{
+"CmdLineParameter":"--afghanistan",
+"Type":"country",
+"Id": 1
+},
+{
+"CmdLineParameter":"--albania",
+"Type":"country",
+"Id": 2
+},
+{
+"CmdLineParameter":"--algeria",
+"Type":"country",
+"Id": 3
+},
+{
+"CmdLineParameter":"--american_samoa",
+"Type":"country",
+"Id": 4
+},
+{
+"CmdLineParameter":"--andorra",
+"Type":"country",
+"Id": 5
+},
+{
+"CmdLineParameter":"--angola",
+"Type":"country",
+"Id": 6
+},
+{
+"CmdLineParameter":"--anguilla",
+"Type":"country",
+"Id": 7
+},
+{
+"CmdLineParameter":"--antarctica",
+"Type":"country",
+"Id": 8
+},
+{
+"CmdLineParameter":"--antigua_and_barbuda",
+"Type":"country",
+"Id": 9
+},
+{
+"CmdLineParameter":"--argentina",
+"Type":"country",
+"Id": 10
+},
+{
+"CmdLineParameter":"--armenia",
+"Type":"country",
+"Id": 11
+},
+{
+"CmdLineParameter":"--aruba",
+"Type":"country",
+"Id": 12
+},
+{
+"CmdLineParameter":"--australia",
+"Type":"country",
+"Id": 13
+},
+{
+"CmdLineParameter":"--austria",
+"Type":"country",
+"Id": 14
+},
+{
+"CmdLineParameter":"--azerbaijan",
+"Type":"country",
+"Id": 15
+},
+{
+"CmdLineParameter":"--bahamas",
+"Type":"country",
+"Id": 16
+},
+{
+"CmdLineParameter":"--bahrain",
+"Type":"country",
+"Id": 17
+},
+{
+"CmdLineParameter":"--bangladesh",
+"Type":"country",
+"Id": 18
+},
+{
+"CmdLineParameter":"--barbados",
+"Type":"country",
+"Id": 19
+},
+{
+"CmdLineParameter":"--belarus",
+"Type":"country",
+"Id": 20
+},
+{
+"CmdLineParameter":"--belgium",
+"Type":"country",
+"Id": 21
+},
+{
+"CmdLineParameter":"--belize",
+"Type":"country",
+"Id": 22
+},
+{
+"CmdLineParameter":"--benin",
+"Type":"country",
+"Id": 23
+},
+{
+"CmdLineParameter":"--bermuda",
+"Type":"country",
+"Id": 24
+},
+{
+"CmdLineParameter":"--bhutan",
+"Type":"country",
+"Id": 25
+},
+{
+"CmdLineParameter":"--bolivia",
+"Type":"country",
+"Id": 26
+},
+{
+"CmdLineParameter":"--bosnia_and_herzegovina",
+"Type":"country",
+"Id": 27
+},
+{
+"CmdLineParameter":"--botswana",
+"Type":"country",
+"Id": 28
+},
+{
+"CmdLineParameter":"--bouvet_island",
+"Type":"country",
+"Id": 29
+},
+{
+"CmdLineParameter":"--brazil",
+"Type":"country",
+"Id": 30
+},
+{
+"CmdLineParameter":"--british_indian_ocean_territory",
+"Type":"country",
+"Id": 31
+},
+{
+"CmdLineParameter":"--brunei_darussalam",
+"Type":"country",
+"Id": 32
+},
+{
+"CmdLineParameter":"--bulgaria",
+"Type":"country",
+"Id": 33
+},
+{
+"CmdLineParameter":"--burkina_faso",
+"Type":"country",
+"Id": 34
+},
+{
+"CmdLineParameter":"--burundi",
+"Type":"country",
+"Id": 35
+},
+{
+"CmdLineParameter":"--cambodia",
+"Type":"country",
+"Id": 36
+},
+{
+"CmdLineParameter":"--cameroon",
+"Type":"country",
+"Id": 37
+},
+{
+"CmdLineParameter":"--canada",
+"Type":"country",
+"Id": 38
+},
+{
+"CmdLineParameter":"--cape_verde",
+"Type":"country",
+"Id": 39
+},
+{
+"CmdLineParameter":"--cayman_islands",
+"Type":"country",
+"Id": 40
+},
+{
+"CmdLineParameter":"--central_african_republic",
+"Type":"country",
+"Id": 41
+},
+{
+"CmdLineParameter":"--chad",
+"Type":"country",
+"Id": 42
+},
+{
+"CmdLineParameter":"--chile",
+"Type":"country",
+"Id": 43
+},
+{
+"CmdLineParameter":"--china",
+"Type":"country",
+"Id": 44
+},
+{
+"CmdLineParameter":"--christmas_island",
+"Type":"country",
+"Id": 45
+},
+{
+"CmdLineParameter":"--cocos_(keeling)_islands",
+"Type":"country",
+"Id": 46
+},
+{
+"CmdLineParameter":"--colombia",
+"Type":"country",
+"Id": 47
+},
+{
+"CmdLineParameter":"--comoros",
+"Type":"country",
+"Id": 48
+},
+{
+"CmdLineParameter":"--congo",
+"Type":"country",
+"Id": 49
+},
+{
+"CmdLineParameter":"--congo",
+"Type":"country",
+"Id": 50
+},
+{
+"CmdLineParameter":"--cook_islands",
+"Type":"country",
+"Id": 51
+},
+{
+"CmdLineParameter":"--costa_rica",
+"Type":"country",
+"Id": 52
+},
+{
+"CmdLineParameter":"--cote_d'ivoire",
+"Type":"country",
+"Id": 53
+},
+{
+"CmdLineParameter":"--croatia",
+"Type":"country",
+"Id": 54
+},
+{
+"CmdLineParameter":"--cuba",
+"Type":"country",
+"Id": 55
+},
+{
+"CmdLineParameter":"--cyprus",
+"Type":"country",
+"Id": 56
+},
+{
+"CmdLineParameter":"--czech_republic",
+"Type":"country",
+"Id": 57
+},
+{
+"CmdLineParameter":"--denmark",
+"Type":"country",
+"Id": 58
+},
+{
+"CmdLineParameter":"--djibouti",
+"Type":"country",
+"Id": 59
+},
+{
+"CmdLineParameter":"--dominica",
+"Type":"country",
+"Id": 60
+},
+{
+"CmdLineParameter":"--dominican_republic",
+"Type":"country",
+"Id": 61
+},
+{
+"CmdLineParameter":"--east_timor",
+"Type":"country",
+"Id": 62
+},
+{
+"CmdLineParameter":"--ecuador",
+"Type":"country",
+"Id": 63
+},
+{
+"CmdLineParameter":"--egypt",
+"Type":"country",
+"Id": 64
+},
+{
+"CmdLineParameter":"--el_salvador",
+"Type":"country",
+"Id": 65
+},
+{
+"CmdLineParameter":"--equatorial_guinea",
+"Type":"country",
+"Id": 66
+},
+{
+"CmdLineParameter":"--eritrea",
+"Type":"country",
+"Id": 67
+},
+{
+"CmdLineParameter":"--estonia",
+"Type":"country",
+"Id": 68
+},
+{
+"CmdLineParameter":"--ethiopia",
+"Type":"country",
+"Id": 69
+},
+{
+"CmdLineParameter":"--falkland_islands_(malvinas)",
+"Type":"country",
+"Id": 70
+},
+{
+"CmdLineParameter":"--faroe_islands",
+"Type":"country",
+"Id": 71
+},
+{
+"CmdLineParameter":"--fiji",
+"Type":"country",
+"Id": 72
+},
+{
+"CmdLineParameter":"--finland",
+"Type":"country",
+"Id": 73
+},
+{
+"CmdLineParameter":"--france",
+"Type":"country",
+"Id": 74
+},
+{
+"CmdLineParameter":"--french_guiana",
+"Type":"country",
+"Id": 75
+},
+{
+"CmdLineParameter":"--french_polynesia",
+"Type":"country",
+"Id": 76
+},
+{
+"CmdLineParameter":"--french_southern_territories",
+"Type":"country",
+"Id": 77
+},
+{
+"CmdLineParameter":"--gabon",
+"Type":"country",
+"Id": 78
+},
+{
+"CmdLineParameter":"--gambia",
+"Type":"country",
+"Id": 79
+},
+{
+"CmdLineParameter":"--georgia",
+"Type":"country",
+"Id": 80
+},
+{
+"CmdLineParameter":"--germany",
+"Type":"country",
+"Id": 81
+},
+{
+"CmdLineParameter":"--gernsis",
+"Type":"country",
+"Id": 242
+},
+{
+"CmdLineParameter":"--ghana",
+"Type":"country",
+"Id": 82
+},
+{
+"CmdLineParameter":"--gibraltar",
+"Type":"country",
+"Id": 83
+},
+{
+"CmdLineParameter":"--greece",
+"Type":"country",
+"Id": 84
+},
+{
+"CmdLineParameter":"--greenland",
+"Type":"country",
+"Id": 85
+},
+{
+"CmdLineParameter":"--grenada",
+"Type":"country",
+"Id": 86
+},
+{
+"CmdLineParameter":"--guadeloupe",
+"Type":"country",
+"Id": 87
+},
+{
+"CmdLineParameter":"--guam",
+"Type":"country",
+"Id": 88
+},
+{
+"CmdLineParameter":"--guatemala",
+"Type":"country",
+"Id": 89
+},
+{
+"CmdLineParameter":"--guinea",
+"Type":"country",
+"Id": 90
+},
+{
+"CmdLineParameter":"--guinea-bissau",
+"Type":"country",
+"Id": 91
+},
+{
+"CmdLineParameter":"--guyana",
+"Type":"country",
+"Id": 92
+},
+{
+"CmdLineParameter":"--haiti",
+"Type":"country",
+"Id": 93
+},
+{
+"CmdLineParameter":"--heard_island_and_mcdonald_islands",
+"Type":"country",
+"Id": 94
+},
+{
+"CmdLineParameter":"--holy_see_(vatican_city_state)",
+"Type":"country",
+"Id": 95
+},
+{
+"CmdLineParameter":"--honduras",
+"Type":"country",
+"Id": 96
+},
+{
+"CmdLineParameter":"--hong_kong",
+"Type":"country",
+"Id": 97
+},
+{
+"CmdLineParameter":"--hungary",
+"Type":"country",
+"Id": 98
+},
+{
+"CmdLineParameter":"--iceland",
+"Type":"country",
+"Id": 99
+},
+{
+"CmdLineParameter":"--india",
+"Type":"country",
+"Id": 100
+},
+{
+"CmdLineParameter":"--indonesia",
+"Type":"country",
+"Id": 101
+},
+{
+"CmdLineParameter":"--iran",
+"Type":"country",
+"Id": 102
+},
+{
+"CmdLineParameter":"--iraq",
+"Type":"country",
+"Id": 103
+},
+{
+"CmdLineParameter":"--ireland",
+"Type":"country",
+"Id": 104
+},
+{
+"CmdLineParameter":"--isle_of_man",
+"Type":"country",
+"Id": 243
+},
+{
+"CmdLineParameter":"--israel",
+"Type":"country",
+"Id": 105
+},
+{
+"CmdLineParameter":"--italy",
+"Type":"country",
+"Id": 106
+},
+{
+"CmdLineParameter":"--jamaica",
+"Type":"country",
+"Id": 107
+},
+{
+"CmdLineParameter":"--japan",
+"Type":"country",
+"Id": 108
+},
+{
+"CmdLineParameter":"--jersey",
+"Type":"country",
+"Id": 244
+},
+{
+"CmdLineParameter":"--jordan",
+"Type":"country",
+"Id": 109
+},
+{
+"CmdLineParameter":"--kazakhstan",
+"Type":"country",
+"Id": 110
+},
+{
+"CmdLineParameter":"--kenya",
+"Type":"country",
+"Id": 111
+},
+{
+"CmdLineParameter":"--kiribati",
+"Type":"country",
+"Id": 112
+},
+{
+"CmdLineParameter":"--kosovo",
+"Type":"country",
+"Id": 115
+},
+{
+"CmdLineParameter":"--kuwait",
+"Type":"country",
+"Id": 116
+},
+{
+"CmdLineParameter":"--kyrgyzstan",
+"Type":"country",
+"Id": 117
+},
+{
+"CmdLineParameter":"--lao_people's_democratic_republic",
+"Type":"country",
+"Id": 118
+},
+{
+"CmdLineParameter":"--latvia",
+"Type":"country",
+"Id": 119
+},
+{
+"CmdLineParameter":"--lebanon",
+"Type":"country",
+"Id": 120
+},
+{
+"CmdLineParameter":"--lesotho",
+"Type":"country",
+"Id": 121
+},
+{
+"CmdLineParameter":"--liberia",
+"Type":"country",
+"Id": 122
+},
+{
+"CmdLineParameter":"--libyan_arab_jamahiriya",
+"Type":"country",
+"Id": 123
+},
+{
+"CmdLineParameter":"--liechtenstein",
+"Type":"country",
+"Id": 124
+},
+{
+"CmdLineParameter":"--lithuania",
+"Type":"country",
+"Id": 125
+},
+{
+"CmdLineParameter":"--luxembourg",
+"Type":"country",
+"Id": 126
+},
+{
+"CmdLineParameter":"--macau",
+"Type":"country",
+"Id": 127
+},
+{
+"CmdLineParameter":"--madagascar",
+"Type":"country",
+"Id": 129
+},
+{
+"CmdLineParameter":"--malawi",
+"Type":"country",
+"Id": 130
+},
+{
+"CmdLineParameter":"--malaysia",
+"Type":"country",
+"Id": 131
+},
+{
+"CmdLineParameter":"--maldives",
+"Type":"country",
+"Id": 132
+},
+{
+"CmdLineParameter":"--mali",
+"Type":"country",
+"Id": 133
+},
+{
+"CmdLineParameter":"--malta",
+"Type":"country",
+"Id": 134
+},
+{
+"CmdLineParameter":"--marshall_islands",
+"Type":"country",
+"Id": 135
+},
+{
+"CmdLineParameter":"--martinique",
+"Type":"country",
+"Id": 136
+},
+{
+"CmdLineParameter":"--mauritania",
+"Type":"country",
+"Id": 137
+},
+{
+"CmdLineParameter":"--mauritius",
+"Type":"country",
+"Id": 138
+},
+{
+"CmdLineParameter":"--mayotte",
+"Type":"country",
+"Id": 139
+},
+{
+"CmdLineParameter":"--mexico",
+"Type":"country",
+"Id": 140
+},
+{
+"CmdLineParameter":"--micronesia",
+"Type":"country",
+"Id": 141
+},
+{
+"CmdLineParameter":"--moldova",
+"Type":"country",
+"Id": 142
+},
+{
+"CmdLineParameter":"--monaco",
+"Type":"country",
+"Id": 143
+},
+{
+"CmdLineParameter":"--mongolia",
+"Type":"country",
+"Id": 144
+},
+{
+"CmdLineParameter":"--montenegro",
+"Type":"country",
+"Id": 146
+},
+{
+"CmdLineParameter":"--montserrat",
+"Type":"country",
+"Id": 145
+},
+{
+"CmdLineParameter":"--morocco",
+"Type":"country",
+"Id": 147
+},
+{
+"CmdLineParameter":"--mozambique",
+"Type":"country",
+"Id": 148
+},
+{
+"CmdLineParameter":"--myanmar",
+"Type":"country",
+"Id": 149
+},
+{
+"CmdLineParameter":"--namibia",
+"Type":"country",
+"Id": 150
+},
+{
+"CmdLineParameter":"--nauru",
+"Type":"country",
+"Id": 151
+},
+{
+"CmdLineParameter":"--nepal",
+"Type":"country",
+"Id": 152
+},
+{
+"CmdLineParameter":"--netherlands",
+"Type":"country",
+"Id": 153
+},
+{
+"CmdLineParameter":"--netherlands_antilles",
+"Type":"country",
+"Id": 154
+},
+{
+"CmdLineParameter":"--new_caledonia",
+"Type":"country",
+"Id": 155
+},
+{
+"CmdLineParameter":"--new_zealand",
+"Type":"country",
+"Id": 156
+},
+{
+"CmdLineParameter":"--nicaragua",
+"Type":"country",
+"Id": 157
+},
+{
+"CmdLineParameter":"--niger",
+"Type":"country",
+"Id": 158
+},
+{
+"CmdLineParameter":"--nigeria",
+"Type":"country",
+"Id": 159
+},
+{
+"CmdLineParameter":"--niue",
+"Type":"country",
+"Id": 160
+},
+{
+"CmdLineParameter":"--norfolk_island",
+"Type":"country",
+"Id": 161
+},
+{
+"CmdLineParameter":"--north_korea",
+"Type":"country",
+"Id": 113
+},
+{
+"CmdLineParameter":"--north_macedonia",
+"Type":"country",
+"Id": 128
+},
+{
+"CmdLineParameter":"--northern_mariana_islands",
+"Type":"country",
+"Id": 162
+},
+{
+"CmdLineParameter":"--norway",
+"Type":"country",
+"Id": 163
+},
+{
+"CmdLineParameter":"--oman",
+"Type":"country",
+"Id": 164
+},
+{
+"CmdLineParameter":"--pakistan",
+"Type":"country",
+"Id": 165
+},
+{
+"CmdLineParameter":"--palau",
+"Type":"country",
+"Id": 166
+},
+{
+"CmdLineParameter":"--palestinian_territory",
+"Type":"country",
+"Id": 167
+},
+{
+"CmdLineParameter":"--panama",
+"Type":"country",
+"Id": 168
+},
+{
+"CmdLineParameter":"--papua_new_guinea",
+"Type":"country",
+"Id": 169
+},
+{
+"CmdLineParameter":"--paraguay",
+"Type":"country",
+"Id": 170
+},
+{
+"CmdLineParameter":"--peru",
+"Type":"country",
+"Id": 171
+},
+{
+"CmdLineParameter":"--philippines",
+"Type":"country",
+"Id": 172
+},
+{
+"CmdLineParameter":"--pitcairn",
+"Type":"country",
+"Id": 173
+},
+{
+"CmdLineParameter":"--poland",
+"Type":"country",
+"Id": 174
+},
+{
+"CmdLineParameter":"--portugal",
+"Type":"country",
+"Id": 175
+},
+{
+"CmdLineParameter":"--puerto_rico",
+"Type":"country",
+"Id": 176
+},
+{
+"CmdLineParameter":"--qatar",
+"Type":"country",
+"Id": 177
+},
+{
+"CmdLineParameter":"--reunion",
+"Type":"country",
+"Id": 178
+},
+{
+"CmdLineParameter":"--romania",
+"Type":"country",
+"Id": 179
+},
+{
+"CmdLineParameter":"--russia",
+"Type":"country",
+"Id": 180
+},
+{
+"CmdLineParameter":"--rwanda",
+"Type":"country",
+"Id": 181
+},
+{
+"CmdLineParameter":"--saint_helena",
+"Type":"country",
+"Id": 182
+},
+{
+"CmdLineParameter":"--saint_kitts_and_nevis",
+"Type":"country",
+"Id": 183
+},
+{
+"CmdLineParameter":"--saint_lucia",
+"Type":"country",
+"Id": 184
+},
+{
+"CmdLineParameter":"--saint_pierre_and_miquelon",
+"Type":"country",
+"Id": 185
+},
+{
+"CmdLineParameter":"--saint_vincent_and_the_grenadines",
+"Type":"country",
+"Id": 186
+},
+{
+"CmdLineParameter":"--samoa",
+"Type":"country",
+"Id": 187
+},
+{
+"CmdLineParameter":"--san_marino",
+"Type":"country",
+"Id": 188
+},
+{
+"CmdLineParameter":"--sao_tome_and_principe",
+"Type":"country",
+"Id": 189
+},
+{
+"CmdLineParameter":"--saudi_arabia",
+"Type":"country",
+"Id": 190
+},
+{
+"CmdLineParameter":"--senegal",
+"Type":"country",
+"Id": 191
+},
+{
+"CmdLineParameter":"--serbia",
+"Type":"country",
+"Id": 192
+},
+{
+"CmdLineParameter":"--seychelles",
+"Type":"country",
+"Id": 193
+},
+{
+"CmdLineParameter":"--sierra_leone",
+"Type":"country",
+"Id": 194
+},
+{
+"CmdLineParameter":"--singapore",
+"Type":"country",
+"Id": 195
+},
+{
+"CmdLineParameter":"--slovakia",
+"Type":"country",
+"Id": 196
+},
+{
+"CmdLineParameter":"--slovenia",
+"Type":"country",
+"Id": 197
+},
+{
+"CmdLineParameter":"--solomon_islands",
+"Type":"country",
+"Id": 198
+},
+{
+"CmdLineParameter":"--somalia",
+"Type":"country",
+"Id": 199
+},
+{
+"CmdLineParameter":"--south_africa",
+"Type":"country",
+"Id": 200
+},
+{
+"CmdLineParameter":"--south_georgia_and_the_south_sandwich_islands",
+"Type":"country",
+"Id": 201
+},
+{
+"CmdLineParameter":"--south_korea",
+"Type":"country",
+"Id": 114
+},
+{
+"CmdLineParameter":"--spain",
+"Type":"country",
+"Id": 202
+},
+{
+"CmdLineParameter":"--sri_lanka",
+"Type":"country",
+"Id": 203
+},
+{
+"CmdLineParameter":"--sudan",
+"Type":"country",
+"Id": 204
+},
+{
+"CmdLineParameter":"--suriname",
+"Type":"country",
+"Id": 205
+},
+{
+"CmdLineParameter":"--svalbard_and_jan_mayen",
+"Type":"country",
+"Id": 206
+},
+{
+"CmdLineParameter":"--swaziland",
+"Type":"country",
+"Id": 207
+},
+{
+"CmdLineParameter":"--sweden",
+"Type":"country",
+"Id": 208
+},
+{
+"CmdLineParameter":"--switzerland",
+"Type":"country",
+"Id": 209
+},
+{
+"CmdLineParameter":"--syrian_arab_republic",
+"Type":"country",
+"Id": 210
+},
+{
+"CmdLineParameter":"--taiwan",
+"Type":"country",
+"Id": 211
+},
+{
+"CmdLineParameter":"--tajikistan",
+"Type":"country",
+"Id": 212
+},
+{
+"CmdLineParameter":"--tanzania",
+"Type":"country",
+"Id": 213
+},
+{
+"CmdLineParameter":"--thailand",
+"Type":"country",
+"Id": 214
+},
+{
+"CmdLineParameter":"--togo",
+"Type":"country",
+"Id": 215
+},
+{
+"CmdLineParameter":"--tokelau",
+"Type":"country",
+"Id": 216
+},
+{
+"CmdLineParameter":"--tonga",
+"Type":"country",
+"Id": 217
+},
+{
+"CmdLineParameter":"--trinidad_and_tobago",
+"Type":"country",
+"Id": 218
+},
+{
+"CmdLineParameter":"--tunisia",
+"Type":"country",
+"Id": 219
+},
+{
+"CmdLineParameter":"--turkey",
+"Type":"country",
+"Id": 220
+},
+{
+"CmdLineParameter":"--turkmenistan",
+"Type":"country",
+"Id": 221
+},
+{
+"CmdLineParameter":"--turks_and_caicos_islands",
+"Type":"country",
+"Id": 222
+},
+{
+"CmdLineParameter":"--tuvalu",
+"Type":"country",
+"Id": 223
+},
+{
+"CmdLineParameter":"--uganda",
+"Type":"country",
+"Id": 224
+},
+{
+"CmdLineParameter":"--ukraine",
+"Type":"country",
+"Id": 225
+},
+{
+"CmdLineParameter":"--united_arab_emirates",
+"Type":"country",
+"Id": 226
+},
+{
+"CmdLineParameter":"--united_kingdom",
+"Type":"country",
+"Id": 227
+},
+{
+"CmdLineParameter":"--united_states",
+"Type":"country",
+"Id": 228
+},
+{
+"CmdLineParameter":"--united_states_minor_outlying_islands",
+"Type":"country",
+"Id": 229
+},
+{
+"CmdLineParameter":"--uruguay",
+"Type":"country",
+"Id": 230
+},
+{
+"CmdLineParameter":"--uzbekistan",
+"Type":"country",
+"Id": 231
+},
+{
+"CmdLineParameter":"--vanuatu",
+"Type":"country",
+"Id": 232
+},
+{
+"CmdLineParameter":"--venezuela",
+"Type":"country",
+"Id": 233
+},
+{
+"CmdLineParameter":"--vietnam",
+"Type":"country",
+"Id": 234
+},
+{
+"CmdLineParameter":"--virgin_islands",
+"Type":"country",
+"Id": 235
+},
+{
+"CmdLineParameter":"--virgin_islands",
+"Type":"country",
+"Id": 236
+},
+{
+"CmdLineParameter":"--wallis_and_futuna",
+"Type":"country",
+"Id": 237
+},
+{
+"CmdLineParameter":"--western_sahara",
+"Type":"country",
+"Id": 238
+},
+{
+"CmdLineParameter":"--yemen",
+"Type":"country",
+"Id": 239
+},
+{
+"CmdLineParameter":"--zaire",
+"Type":"country",
+"Id": 245
+},
+{
+"CmdLineParameter":"--zambia",
+"Type":"country",
+"Id": 240
+},
+{
+"CmdLineParameter":"--zimbabwe",
+"Type":"country",
+"Id": 241
+},
+{
+"CmdLineParameter":"--ikev2",
+"Type":"protocol",
+"Id": 1
+},
+{
+"CmdLineParameter":"--udp",
+"Type":"protocol",
+"Id": 3
+},
+{
+"CmdLineParameter":"--tcp",
+"Type":"protocol",
+"Id": 5
+},
+{
+"CmdLineParameter":"--socks",
+"Type":"protocol",
+"Id": 7
+},
+{
+"CmdLineParameter":"--proxy",
+"Type":"protocol",
+"Id": 9
+},
+{
+"CmdLineParameter":"--pptp",
+"Type":"protocol",
+"Id": 11
+},
+{
+"CmdLineParameter":"--l2tp",
+"Type":"protocol",
+"Id": 13
+},
+{
+"CmdLineParameter":"--vpn_xor_udp",
+"Type":"protocol",
+"Id": 15
+},
+{
+"CmdLineParameter":"--vpn_xor_tcp",
+"Type":"protocol",
+"Id": 17
+},{
+"CmdLineParameter":"--proxy_cybersec",
+"Type":"protocol",
+"Id": 19
+},
+{
+"CmdLineParameter":"--proxy_ssl",
+"Type":"protocol",
+"Id": 21
+},
+{
+"CmdLineParameter":"--proxy_ssl_cybersec",
+"Type":"protocol",
+"Id": 23
+},
+{
+"CmdLineParameter":"--ikev2_v6",
+"Type":"protocol",
+"Id": 26
+},{
+"CmdLineParameter":"--vpn_udp_v6",
+"Type":"protocol",
+"Id": 29
+},
+{
+"CmdLineParameter":"--vpn_tcp_v6",
+"Type":"protocol",
+"Id": 32
+},
+{
+"CmdLineParameter":"--nordlynx",
+"Type":"protocol",
+"Id": 35
+},
+{
+"CmdLineParameter":"--vpn_udp_tls_crypt",
+"Type":"protocol",
+"Id": 38
+},
+{
+"CmdLineParameter":"--vpn_tcp_tls_crypt",
+"Type":"protocol",
+"Id": 41
+},
+{
+"CmdLineParameter":"--vpn_dedicated_udp",
+"Type":"protocol",
+"Id": 42
+},{
+"CmdLineParameter":"--vpn_dedicated_tcp",
+"Type":"protocol",
+"Id": 45
+},
+{
+"CmdLineParameter":"--skylark",
+"Type":"protocol",
+"Id": 48
+},
+{
+"CmdLineParameter":"--mesh",
+"Type":"protocol",
+"Id": 50
+},
+]
